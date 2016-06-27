@@ -1,0 +1,50 @@
+1번
+class
+
+2번
+(1)SampleProgram
+(2)
+(3)public static void main(String args[]){} //메인 메소드가 없다.
+(4)
+
+3번
+(1) '_','$'는 식별자로 사용가능하다
+(2) 한글도 사용가능하다.
+(7) 제한 없음
+
+4번
+int %j; //특수문자로 시작할 수 없음
+douvle 1var; // 첫번째 문자로 숫자를 사용할수없음
+
+5번
+boolean 1byte
+char 2byte
+byte 1byte
+short 2byte
+int 4byte
+long 8byte
+float 4byte
+double 8byte
+
+9번
+(1)double 79.8
+(2)int ???!!!
+(3)int 3
+(4)double 3.333333
+(5)boolean false
+
+10번
+
+
+귀찮다. 나중에
+
+
+
+14번
+
+"\"를 출력하려면 \\ 다음에 \"를 붙여 \\\"과 같이 하면 됩니다."
+
+
+15번
+
+j = -6
